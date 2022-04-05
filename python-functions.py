@@ -7,16 +7,18 @@
 
 #  2. 
 
-def largest(arg):
-  arg.sort()
-  return(arg[-1])
+# def largest(arg):
+#   arg.sort()
+#   return(arg[-1])
 
-print(largest([1, 2, 3, 4, 0]))
+# print(largest([1, 2, 3, 4, 0]))
 
 #  3.   
 
+list = 'fleep floop'
 
+occurrences = list.count('e')
+print(occurrences)
 
-hello
 
 #  4.
